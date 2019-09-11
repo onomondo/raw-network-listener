@@ -1,6 +1,6 @@
 {
   "name": "raw-network-listener",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapper around the \"cap\" module that listens for packets on network interfaces",
   "main": "index.js",
   "scripts": {

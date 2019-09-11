@@ -5,7 +5,7 @@ Wrapper around [cap](https://github.com/mscdex/cap) that listens for packets on 
 Uses [pcap filters](https://www.tcpdump.org/manpages/pcap-filter.7.html).
 
 ```
-$ npm install raw-network-listeners
+$ npm install raw-network-listener
 ```
 
 ## Usage

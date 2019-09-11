@@ -1,0 +1,21 @@
+{
+  "name": "raw-network-listener",
+  "version": "1.0.0",
+  "description": "Wrapper around the \"cap\" module that listens for packets on network interfaces",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Tobias Baunbæk Christensen <freeall@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:onomondo/raw-network-listener.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "cap": "^0.2.1"
+  },
+  "devDependencies": {
+    "tape": "^4.11.0"
+  }
+}

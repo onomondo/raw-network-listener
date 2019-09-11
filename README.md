@@ -39,7 +39,7 @@ From [cap.Cap.findDevice](https://github.com/mscdex/cap#cap-static-methods)
 
 From [cap.Cap.deviceList](https://github.com/mscdex/cap#cap-static-methods)
 
-### ({ interface, fitler })
+### ({ interface, filter })
 
 Create listener on the `interface` (e.g. `lo0` or `eth0`) with the filter. Filters are based on [pcap filters](https://www.tcpdump.org/manpages/pcap-filter.7.html).
 
